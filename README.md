@@ -8,11 +8,11 @@
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="25%" src="https://github-readme-stats.vercel.app/api?username=Qlesuga&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Qlesuga&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qlesuga&theme=onedark" alt="GitHub Streak">
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qlesuga&theme=onedark" alt="GitHub Streak">
   </a>
   
   <br>
